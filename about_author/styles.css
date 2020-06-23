@@ -304,7 +304,10 @@ footer .container .section .logo-section span{
 		top:-5px;
 	}
 	
-	
+	#gallery .container img{
+                Width: 24%;
+        }
+
 	#asides .container{
 		margin: 50px 5%;
 	}
